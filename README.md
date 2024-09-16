@@ -8,8 +8,6 @@
 **Ржанникова Елена Андреевна** - программист
 
 
-
-
 ## Цель проекта:
 Создание системы, которая позволит осуществлять мониторинг состояния дорожного полотна с помощью квадрокоптера и проводить ремонт обнаруженных дефектов автономным ровером.
 ## Задачи проекта:
@@ -65,23 +63,3 @@ while True:
 Сделав около 300 фотографий ям,мы загрузили их на сайт [roboflow](
 https://app.roboflow.com/login), чтобы обработать и обучить нейронную сеть распозновать ямы.
 ![data_img_10](https://github.com/user-attachments/assets/5ff84f07-7390-4d1f-8c10-0e6caf8e60da)
-
-
-Импортируем все необходимые библиотеки
-```python
-import rospy
-from clover import srv
-from std_srvs.srv import Trigger
-from clover.srv import SetLEDEffect
-import math
-```
-
-Добавляем необходимые ноды и прокси
-```python
-rospy.init_node('flight')
-
-get_telemetry = rospy.ServiceProxy('get_telemetry', srv.GetTelemetry)
-navigate = rospy.ServiceProxy('navigate', srv.Navigate)
-navigate_global = rospy.ServiceProxy('navigate_global', srv.NavigateGlobal)
-land = rospy.ServiceProxy('land', Trigger)
-```
