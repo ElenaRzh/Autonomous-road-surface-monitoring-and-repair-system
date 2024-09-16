@@ -62,4 +62,5 @@ while True:
 
 Сделав около 300 фотографий ям,мы загрузили их на сайт [roboflow](
 https://app.roboflow.com/login), чтобы обработать и обучить нейронную сеть распозновать ямы.
+
 ![data_img_10](https://github.com/user-attachments/assets/5ff84f07-7390-4d1f-8c10-0e6caf8e60da)
