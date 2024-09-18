@@ -1,4 +1,5 @@
-![обложка](https://github.com/user-attachments/assets/9ac4242c-c618-48a4-a100-e319eba8515f)
+
+![обложка1](https://github.com/user-attachments/assets/93c8e315-d91e-4076-980b-6bba40b66471)
 
 ## Команда проекта:
 
