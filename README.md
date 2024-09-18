@@ -59,7 +59,7 @@ photo_id = 0
 photo_pos = [[0,0.4], [1,0.4], [1,0.8], [1,1.2],[1,1.6], [1,2],[0,2], [0,0.4]]
 
 def go_to(x=0, y=0, z=0.7, yaw=0, speed=0.3, frame_id='aruco_map', auto_arm=False, tolerance=0.15):
-    global i
+    global photo_id
     navigate(x=x, y=y, z=z, yaw=yaw, speed=speed, frame_id=frame_id, auto_arm=auto_arm)
 
     while not rospy.is_shutdown():
