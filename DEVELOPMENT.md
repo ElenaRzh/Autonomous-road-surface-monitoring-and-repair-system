@@ -63,6 +63,7 @@ for result in results:
     result.show()
 ```
 Этот код обрабатывает изображение и выводит результат обработки в окно. 
-![ямы обработанные](https://github.com/user-attachments/assets/b8daf493-6297-4035-a97a-ad7c955f619a)
+![ямы обработанные](https://github.com/user-attachments/assets/a4888274-f317-4aed-aef5-890789c613bc)
+
 
 
