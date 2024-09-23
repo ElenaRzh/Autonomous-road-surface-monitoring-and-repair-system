@@ -51,6 +51,8 @@ https://app.roboflow.com/login), чтобы обработать и обучит
 
 ![data_img_10](https://github.com/user-attachments/assets/5ff84f07-7390-4d1f-8c10-0e6caf8e60da)
 
+# Обучение нейронной сети
+
 # Обучение и тесты нейронной сети
 
 
