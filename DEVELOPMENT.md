@@ -53,7 +53,16 @@ https://app.roboflow.com/login), чтобы обработать и обучит
 
 # Обучение и тесты нейронной сети
 
-
-
+Нейронную сеть мы обучали при помощи сервиса Google Сollab. 
+После обучения мы получили модель нашей нейронной сети в формате '.pt' и приступили к ее тестам. Для тестов использовали следующий код:
+```python
+from ultralytics import YOLO
+model = YOLO('model.pt')
+results = model('image.jpg', show=True)
+for result in results:
+    result.show()
+```
+Этот код обрабатывает изображение и выводит результат обработки в окно. 
+![ямы обработанные](https://github.com/user-attachments/assets/b8daf493-6297-4035-a97a-ad7c955f619a)
 
 
