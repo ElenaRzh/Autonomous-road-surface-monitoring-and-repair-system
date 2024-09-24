@@ -13,7 +13,7 @@
 - Разработать серверное приложение с функцией приема данных с дрона, обработке данных о ямах, сборе статистики и передаче информации об обнаруженных ямах пользователям.
 - Протестировать систему и внести изменения на основе результатов тестирования.
 
-&nbsp;
+[Реализация проекта](https://github.com/ElenaRzh/Autonomous-road-surface-monitoring-and-repair-system./blob/main/DEVELOPMENT.md)
 
  **Команда проекта**
  
@@ -23,6 +23,6 @@
 | Ржанникова Елена Андреевна | Программист | Работа с ИИ |
 
 
-[Реализация проекта](https://github.com/ElenaRzh/Autonomous-road-surface-monitoring-and-repair-system./blob/main/DEVELOPMENT.md)
+
 
 
