@@ -23,7 +23,7 @@
 | Ржанникова Елена Андреевна | Программист | Работа с ИИ |
 
 
-**`[Реализация проекта](https://github.com/ElenaRzh/Autonomous-road-surface-monitoring-and-repair-system./blob/main/DEVELOPMENT.md)`**
+[**`Реализация проекта`**](https://github.com/ElenaRzh/Autonomous-road-surface-monitoring-and-repair-system./blob/main/DEVELOPMENT.md)
 
 
 
