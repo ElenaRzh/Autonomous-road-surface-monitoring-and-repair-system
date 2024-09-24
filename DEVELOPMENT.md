@@ -66,6 +66,9 @@ for result in results:
 
 ![ямы обработанные](https://github.com/user-attachments/assets/a4888274-f317-4aed-aef5-890789c613bc)
 
+ # Работа с результатами распознования
+
+ 
 
 
 
