@@ -26,7 +26,7 @@
 - Протестировать систему и внести изменения на основе результатов тестирования.
 
   
-[**`Задачи`**](https://github.com/user-attachments/files/17129173/Tasks.xlsx)
+[**`Распределение задач`**](https://github.com/user-attachments/files/17129173/Tasks.xlsx)
 
 
 [**`Реализация проекта`**](https://github.com/ElenaRzh/Autonomous-road-surface-monitoring-and-repair-system./blob/main/DEVELOPMENT.md)
