@@ -77,7 +77,7 @@ for result in results:
 
 
  
-[Демонстрация полета и вывода координат на карте](https://disk.yandex.ru/i/Z1GQtmxnsRyUFA)
+[**`Демонстрация полета и вывода координат на карте`**](https://disk.yandex.ru/i/Z1GQtmxnsRyUFA)
 
 
 
