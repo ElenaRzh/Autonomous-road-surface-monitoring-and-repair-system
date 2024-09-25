@@ -26,11 +26,9 @@
 - Разработать серверное приложение с функцией приема данных с дрона, обработке данных о ямах, сборе статистики и передаче информации об обнаруженных ямах пользователям.
 - Протестировать систему и внести изменения на основе результатов тестирования.
 
+[**`Реализация проекта`**](https://github.com/ElenaRzh/Autonomous-road-surface-monitoring-and-repair-system./blob/main/DEVELOPMENT.md)
   
 [**`Распределение задач`**](https://github.com/user-attachments/files/17129173/Tasks.xlsx)
-
-
-[**`Реализация проекта`**](https://github.com/ElenaRzh/Autonomous-road-surface-monitoring-and-repair-system./blob/main/DEVELOPMENT.md)
 
 [**`Порядок выполнения проверок`**](https://github.com/user-attachments/files/17132886/system_test.xlsx)
 
