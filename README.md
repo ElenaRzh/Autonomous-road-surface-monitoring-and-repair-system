@@ -32,7 +32,7 @@
 
 [**`Реализация проекта`**](https://github.com/ElenaRzh/Autonomous-road-surface-monitoring-and-repair-system./blob/main/DEVELOPMENT.md)
 
-[**`Порядок пвыполнения проверок`**](https://github.com/user-attachments/files/17132886/system_test.xlsx)
+[**`Порядок выполнения проверок`**](https://github.com/user-attachments/files/17132886/system_test.xlsx)
 
 
 
