@@ -66,7 +66,7 @@ This code processes the image and displays the result of the processing in a win
 # Working with recognition results
 After processing the photos with a neural network, we get the coordinates of the pits in pixels. Using trigonometric formulas, we convert coordinates from pixels to meters. Since one pit may be visible in several photos, duplicates may occur. Therefore, we calculate the distance between each pit in pairs and, if it is too small, then remove one of the pits, since it is a duplicate. As a result, we get a list of the coordinates of the detected pits.
 
-We display the detected pits using the [bot's telegrams](). With the OpenCV library, we overlay pits in the form of red circles on the map. After the flyby, the received card is sent to all users specified in the database.
+We display the detected pits using the [bot's telegrams](https://web.telegram.org/k/#@clever128_bot). With the OpenCV library, we overlay pits in the form of red circles on the map. After the flyby, the received card is sent to all users specified in the database.
 
 <img src="https://github.com/user-attachments/assets/52269930-f4c1-43ea-8fbc-8d5f3a9c8714" width="400" height="600">
 
