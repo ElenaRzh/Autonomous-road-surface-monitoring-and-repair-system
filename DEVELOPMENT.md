@@ -75,6 +75,7 @@ for result in results:
 Обнаруженные ямы мы выводим при помощи [телеграм бота](https://web.telegram.org/k/#@clever128_bot). Библиотекой OpenCV мы накладываем ямы в виде красных кружочков на карту. После облета полученная карта рассылается всем пользователям, указанным в базе.
 <img src="https://github.com/user-attachments/assets/52269930-f4c1-43ea-8fbc-8d5f3a9c8714" width="400" height="600">
 
+![qrcod](https://github.com/user-attachments/assets/878efc64-b4ef-4c50-8439-afbb6959bfdc)
 
  
 [**`Демонстрация полета и вывода координат на карте`**](https://disk.yandex.ru/i/Z1GQtmxnsRyUFA)
