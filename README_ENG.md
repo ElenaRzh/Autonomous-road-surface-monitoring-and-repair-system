@@ -1,4 +1,5 @@
-![обложка]()
+
+![обложкаинг](https://github.com/user-attachments/assets/f9ffa842-bd3d-47d8-93e8-256d805e1d91)
 
 
  
