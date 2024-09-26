@@ -1,5 +1,6 @@
 
-![обложка1](https://github.com/user-attachments/assets/93c8e315-d91e-4076-980b-6bba40b66471)
+![обложка](https://github.com/user-attachments/assets/bcc1f9ae-6509-4df7-81dd-e649f194b141)
+
 
  
 | Участник | Роль | Задача |
