@@ -28,7 +28,8 @@
 
 [**`Реализация проекта`**](https://github.com/ElenaRzh/Autonomous-road-surface-monitoring-and-repair-system./blob/main/DEVELOPMENT.md)
   
-[**`Распределение задач`**](https://github.com/user-attachments/files/17129173/Tasks.xlsx)
+[**`Распределение задач`**](https://github.com/user-attachments/files/17146064/Tasks.xlsx)
+)
 
 [**`Порядок выполнения проверок`**](https://github.com/user-attachments/files/17132886/system_test.xlsx)
 
