@@ -27,7 +27,7 @@ The quadcopter autonomously flies around city streets and uses a neural network 
 - To develop a server application with the function of receiving data from a drone, processing pit data, collecting statistics and transmitting information about detected pits to users.
 - Test the system and make changes based on the test results.
 
-[**`Project implementation`**](https://github.com/ElenaRzh/Autonomous-road-surface-monitoring-and-repair-system./blob/main/DEVELOPMENT.md)
+[**`Project implementation`**](https://github.com/ElenaRzh/Autonomous-road-surface-monitoring-and-repair-system/blob/main/DEVELOPMENT_%20ENG.md)
 
 [**`Distribution of tasks`**](https://github.com/user-attachments/files/17146064/Tasks.xlsx)
 
