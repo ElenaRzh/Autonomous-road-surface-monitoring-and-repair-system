@@ -29,6 +29,7 @@ The quadcopter autonomously flies around city streets and uses a neural network 
 
 [**`Project implementation`**](https://github.com/ElenaRzh/Autonomous-road-surface-monitoring-and-repair-system/blob/main/DEVELOPMENT_%20ENG.md)
 
-[**`Distribution of tasks`**](https://github.com/user-attachments/files/17146064/Tasks.xlsx)
+[**`Distribution of tasks`**](https://github.com/user-attachments/files/17155210/Tasks.xlsx)
 
-[**`The procedure for performing checks`**](https://github.com/user-attachments/files/17132886/system_test.xlsx)
+
+[**`The procedure for performing checks`**](https://github.com/user-attachments/files/17155214/system_test.xlsx)
