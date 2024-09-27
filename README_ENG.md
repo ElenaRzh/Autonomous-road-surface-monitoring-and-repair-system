@@ -14,6 +14,8 @@ According to traffic police statistics, in 2023, 33% of accidents occurred due t
 # Job Description
 The quadcopter autonomously flies around city streets and uses a neural network to detect pits and defects in the roadway. All data about the defects found is sent to the server, which makes a damage map. At night, when there are fewer cars on the roads, the autonomous rover goes out to repair the road. He moves along a pre-arranged route, observing traffic rules, recognizing traffic lights and so on. Upon arrival at the work site, the rover uses lidar to scan the pit, determine its size and volume. Based on the data received, he decides on self-repair or transfer of information that this pit needs to be eliminated manually. If the pit is suitable for autonomous repair, it feeds the required volume of asphalt concrete mixture into the pit, and then drives through it, leveling it.
 
+<img src="https://github.com/user-attachments/assets/aef99189-2918-4f31-ac18-a4064c36c16b" width="515" height="431">
+
 # System requirements:
 - The quadcopter must be able to fly around city streets autonomously.
 - The neural network must process the image from the drone's camera and recognize different pits.
