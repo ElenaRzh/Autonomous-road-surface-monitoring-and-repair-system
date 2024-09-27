@@ -1,7 +1,7 @@
 
 ![обложка](https://github.com/user-attachments/assets/bcc1f9ae-6509-4df7-81dd-e649f194b141)
 
-
+[**`English version`**](https://github.com/ElenaRzh/Autonomous-road-surface-monitoring-and-repair-system/blob/main/README_ENG.md)
  
 | Участник | Роль | Задача |
 |----------|------|--------|
